@@ -1,2 +1,2 @@
 # mnist-predict
-Used tensorflow and keras to predict the no. from image
+ML model using ANN and CNN to predict numbers
